@@ -1,0 +1,24 @@
+[submodule "chimera-queens"]
+	path = chimera-queens
+	url = https://github.com/5enthilbaliah/chimera-queens.git
+[submodule "chimera-pawns"]
+	path = chimera-pawns
+	url = https://github.com/5enthilbaliah/chimera-pawns.git
+[submodule "chimera-bishops"]
+	path = chimera-bishops
+	url = https://github.com/5enthilbaliah/chimera-bishops.git
+[submodule "chimera-rooks"]
+	path = chimera-rooks
+	url = https://github.com/5enthilbaliah/chimera-rooks.git
+[submodule "chimera-knights"]
+	path = chimera-knights
+	url = https://github.com/5enthilbaliah/chimera-knights.git
+[submodule "chimera-kings"]
+	path = chimera-kings
+	url = https://github.com/5enthilbaliah/chimera-kings.git
+[submodule "chimera-theories"]
+	path = chimera-theories
+	url = https://github.com/5enthilbaliah/chimera-theories.git
+[submodule "chimera-compositions"]
+	path = chimera-compositions
+	url = https://github.com/5enthilbaliah/chimera-compositions.git
