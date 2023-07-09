@@ -1,4 +1,4 @@
-﻿aggregators/
-mutators/
-orchestrators/
-foundations/
+﻿/aggregators/
+/mutators/
+/orchestrators/
+/foundations/
