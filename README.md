@@ -4,6 +4,8 @@ The plan is to create a complete micro service and app framework with multi lang
 
 Let' see where this takes us.
 
-Order -
+Order of execution
 
-foundations -> net-foundation
+Foundations 
+- net-foundation
+- mssql-foundation
