@@ -11,4 +11,5 @@
 /schedulers/
 /scopes/
 /shells/
+/shells/.private_nuget/
 /workspaces/
